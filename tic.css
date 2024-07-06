@@ -1,0 +1,58 @@
+body{
+    background-color:#A6D49F;
+    text-align: center;
+}
+h1{
+    color:#044e30;
+}
+.main{
+    height: 50vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 16px;
+}
+.contents
+{
+    margin: 4rem;
+    height: 34vh;
+    width: 24vw;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    gap:0.6rem
+}
+.b{
+    height: 14vh;
+    width:7vw;
+    border-radius:1rem;
+    border: transparent;
+    box-shadow: inset -3px -2px 2px 1px rgba(0, 0, 0, 0.5);
+    font-size: 78px;
+    color: cadetblue;
+    background-color: #044e30;
+    }
+    .newgame{
+        padding: 20px;
+        border-radius: 24%;
+        border: transparent;
+        box-shadow: inset -3px -2px 2px 1px rgba(0, 0, 0, 0.5);
+        color:white;
+        background-color: rgb(11 121 89 / 65%);
+        font-size: 16px;
+        
+    }
+    .reset{
+        padding: 20px;
+        border-radius: 24%;
+        border: transparent;
+        box-shadow: inset -3px -2px 2px 1px rgba(0, 0, 0, 0.5);
+        color:white;
+        background-color: rgba(140, 52, 5, 0.381);
+        font-size: 16px;
+        margin-left: 4px;
+    }
+    
+    
